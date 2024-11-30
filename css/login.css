@@ -1,0 +1,39 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+    background-color: #24353F;
+}
+
+input {
+    background-color: transparent !important;
+    color: #fff;
+}
+.form-control::placeholder{
+    color: #95989B;
+}
+
+h1 {
+    color: #17a2b8;
+    font-size: 2.5rem;
+}
+
+.collection {
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+
+}
+.btn-outline-info{
+    color:rgb(23, 162, 184) ;
+    border-color: rgb(23, 162, 184);
+}
+.btn-outline-info:hover{
+    color: #fff;
+    background-color: #17A2B8;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

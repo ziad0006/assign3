@@ -1,0 +1,30 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+    background-color: #24353F;
+}
+
+.collection {
+
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+h1 {
+    font-size: 40px;
+    color: #17A2B8;
+}
+
+.con {
+    height: 85vh;
+}
+
+.btn-outline-warning {
+    color: #b3b3b3be;
+}
+
+.btn-outline-warning:hover {
+    color: #fff;
+}
+
+.navbar-toggler {
+    border-color: rgba(255, 255, 255, 0.1);
+}
